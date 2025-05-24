@@ -22,5 +22,5 @@ jobs:
 
     - name: 🚚 Sync Files to S3
       run: |
-        aws s3 sync . s3://${{ secrets.portfolio-aws1 }} --delete
+        aws s3 sync . s3://portfolio-aws1 --delete
 
