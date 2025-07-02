@@ -1,0 +1,11 @@
+{
+  "name": "simple-portfolio01",
+  "version": "1.0.0",
+  "description": "Personal portfolio website",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo No start script yet"
+  },
+  "author": "Akash Nag",
+  "license": "ISC"
+}
